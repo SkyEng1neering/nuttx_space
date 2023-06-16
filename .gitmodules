@@ -1,0 +1,3 @@
+[submodule "apps/test_app/fileXferLib"]
+	path = apps/test_app/fileXferLib
+	url = git@github.com:SkyEng1neering/fileXferLib.git
